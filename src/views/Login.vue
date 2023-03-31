@@ -11,6 +11,8 @@
         </div>
         
         <button type="button" v-on:click="login">Login</button>
+      <router-link to="/about">เกี่ยวกับเรา</router-link>
+
     </div>
 </template>
 
